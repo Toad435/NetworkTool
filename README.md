@@ -85,4 +85,3 @@ Credits:
 Toad for coding.
 Nebula for the big text formatting.
 Various open-source projects for providing the tools used in this script (e.g., Nmap, Hydra, Metasploit).
-For support and discussions, you can join our community on Discord: https://discord.gg/X9gUj6e2wr.
